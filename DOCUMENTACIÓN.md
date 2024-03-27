@@ -1,9 +1,9 @@
 # Documentación de la Aplicación
 
-**Proyecto realizado por**
-//Jose Manuel Pantoja Rosas
-//Felipe Alejandro Fajardo Castro
-**TDS 3B**
+Equipo de Desarrollo:
+- Jose Manuel Pantoja Rosas
+- Felipe Alejandro Fajardo Castro
+- TDS 3B
 
 ## Introducción
 
@@ -89,10 +89,10 @@ Comandos para el terminal:
 
 Si encuentras algún problema durante la instalación o ejecución de la aplicación, no dudes en contactar a nuestro equipo de soporte técnico para obtener asistencia adicional.
 
-**[Número de Teléfono]:(+57 3123903681)**
+- **Número de Teléfono:** `(+57) 312 390 3681`
 
 ## Contribución
 
-Si deseas contribuir al desarrollo de esta aplicación, ¡te damos la bienvenida! Por favor, contactanos directamente a nuestro número telefónico.
+Si deseas contribuir al desarrollo de esta aplicación, ¡te damos la bienvenida! Por favor, contáctanos directamente a nuestro número telefónico.
 
-**[Número de Teléfono]:(+57 3123903681)**
+- **Número de Teléfono:** `(+57) 312 390 3681`
