@@ -72,7 +72,7 @@ Nos es mucho más fácil explicar este paso mediante un video.
 
 **[Ver Video de Ejecución](https://youtu.be/QhxqlPuLePo)**
 
-**[Link de Nuestro Host de React](https://neonwaac.000webhostapp.com)**
+**[Link de Nuestro Host de React]([https://crud-react-mysql-two.vercel.app])**
 
 Comandos para el terminal:
 
